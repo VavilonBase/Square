@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Square</string>
+    <string name="input_a">Введите a</string>
+    <string name="input_b">Введите b</string>
+    <string name="input_c">Введите c</string>
+    <string name="equals_square">Решение квадратного уравнения</string>
+    <string name="button_text">Решить</string>
+</resources>
